@@ -1,7 +1,7 @@
 # Xbomb
 Multi functioning pentesting tool
 
-DISCRIPTION
+# DISCRIPTION
 
 This is a Python based tool which allows you to,
        1. Hash passwords
@@ -11,13 +11,28 @@ This is a Python based tool which allows you to,
        5. Create a listener for a backdoor
        6. Create python based undetectable payload
        
-REDUIRMENTS
+# REQUIRMENTS
   
 Python 3.8 or a higher version
 
-INSTALATION
+# INSTALATION
 
-clone this and run python3 install.py
+1. git clone https://github.com/Computinglk/Xbomb.git
+2. python3 install.py
 
+# USAGE
 
+python3 Xbomb.py
+     This will start a Xbomb framework
 
+Run the help command on the Xbomb shell to get the help menu
+    Xbomb > help
+    
+# ABOUT
+
+This is a product from Computinglk written by Kavishka Gihan Ferenando
+Use this leagally
+I wont be responsible for any illegal activity
+ 
+ 
+ 
