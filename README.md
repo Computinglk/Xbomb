@@ -35,11 +35,11 @@ Installation steps
 
 + python3 Xbomb.py
 
-This will start a Xbomb framework
+  This will start the Xbomb framework
 
 + Run the 'help' command on the Xbomb shell to get the help menu
 
-  Xbomb > help 
+   Xbomb > help 
     
 # ABOUT
 
