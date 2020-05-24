@@ -1,9 +1,9 @@
 # Xbomb
-Multi functioning pentesting tool
++ Multi functioning pentesting tool
 
 # DISCRIPTION
 
-This is a Python based tool which allows you to
++ This is a Python based tool which allows you to
        1. Hash passwords, 
        2. Brute force Gmail addresses, 
        3. Scan different hosts in a network, 
@@ -13,9 +13,9 @@ This is a Python based tool which allows you to
        
 # REQUIRMENTS
   
-Python 3.8 or a higher version
++ Python 3.8 or a higher version
 
-pip 19.9 or a higher version
++ pip 19.9 or a higher version
 
 # INSTALATION
 
