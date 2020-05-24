@@ -4,6 +4,7 @@
 # DISCRIPTION
 
 + This is a Python based tool which allows you to
+
        1. Hash passwords, 
        
        2. Brute force Gmail addresses, 
@@ -24,8 +25,11 @@
 
 # INSTALATION
 
-1. git clone https://github.com/Computinglk/Xbomb.git
-2. python3 install.py
+Installation steps
+
+    1. git clone https://github.com/Computinglk/Xbomb.git
+    
+    2. python3 install.py
 
 # USAGE
 
@@ -35,7 +39,7 @@ This will start a Xbomb framework
 
 + Run the 'help' command on the Xbomb shell to get the help menu
 
-[ Xbomb > help ]
+  Xbomb > help 
     
 # ABOUT
 
