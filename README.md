@@ -13,9 +13,9 @@
        
        4. Steal WiFi passwords, 
        
-       5. Create a listener for a backdoor, 
+       5. Create a listener to listen backdoors, 
        
-       6. Create python based undetectable payload
+       6. Create undetectable payload for the backdoors
        
 # REQUIRMENTS
   
