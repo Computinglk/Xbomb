@@ -23,10 +23,10 @@ Python 3.8 or a higher version
 # USAGE
 
 python3 Xbomb.py
-     This will start a Xbomb framework
+This will start a Xbomb framework
 
-Run the help command on the Xbomb shell to get the help menu
-    Xbomb > help
+Run the 'help' command on the Xbomb shell to get the help menu
+Xbomb > help
     
 # ABOUT
 
