@@ -24,10 +24,12 @@ pip 19.9 or a higher version
 # USAGE
 
 python3 Xbomb.py
+
 This will start a Xbomb framework
 
 Run the 'help' command on the Xbomb shell to get the help menu
-Xbomb > help
+
+[ Xbomb > help ]
     
 # ABOUT
 
