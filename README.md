@@ -14,6 +14,7 @@ This is a Python based tool which allows you to
 # REQUIRMENTS
   
 Python 3.8 or a higher version
+
 pip 19.9 or a higher version
 
 # INSTALATION
@@ -23,19 +24,21 @@ pip 19.9 or a higher version
 
 # USAGE
 
-python3 Xbomb.py
++ python3 Xbomb.py
 
 This will start a Xbomb framework
 
-Run the 'help' command on the Xbomb shell to get the help menu
++ Run the 'help' command on the Xbomb shell to get the help menu
 
 [ Xbomb > help ]
     
 # ABOUT
 
-This is a product from Computinglk written by Kavishka Gihan Ferenando
-Use this leagally
-I wont be responsible for any illegal activity
++  A product from Computinglk written by Kavishka Gihan Ferenando
+
++ Use this leagally
+
++ I wont be responsible for any illegal activity
  
  
  
