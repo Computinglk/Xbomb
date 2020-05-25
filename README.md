@@ -8,14 +8,12 @@
        1. Hash passwords, 
        
        2. Brute force Gmail addresses, 
+      
+       3. Steal WiFi passwords, 
        
-       3. Scan different hosts in a network, 
+       4. Create a listener to listen backdoors, 
        
-       4. Steal WiFi passwords, 
-       
-       5. Create a listener to listen backdoors, 
-       
-       6. Create undetectable payload for the backdoors
+       5. Create undetectable payload for the backdoors
        
 # REQUIRMENTS
   
@@ -54,4 +52,8 @@ Run the 'help' command on the Xbomb shell to get the help menu
 + I wont be responsible for any illegal activity
  
  
+ # INFO
  
+ + Due to a system issue Network scanner has been removed from this tool as nmap is only works in Linux disributions
+ 
+ + I will release a new tool for Network scanning for linux in the near future
