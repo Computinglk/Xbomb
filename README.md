@@ -33,17 +33,17 @@ Installation steps
 
 # USAGE
 
-+ python3 Xbomb.py
+This will start the Xbomb framework
 
-  This will start the Xbomb framework
+     1.python3 Xbomb.py
 
-+ Run the 'help' command on the Xbomb shell to get the help menu
+Run the 'help' command on the Xbomb shell to get the help menu
 
-   Xbomb > help 
+    2. Xbomb > help 
     
 # ABOUT
 
-+  A product of Computinglk 
++ A product of Computinglk 
 
 + Author Kavishka Gihan Ferenando
 
