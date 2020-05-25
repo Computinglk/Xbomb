@@ -14,55 +14,58 @@ def install():
     for _ in range(0, 1):
         try:
             try:
-                print("         [+] Installing setuptools")
                 subprocess.run("pip install setuptools", text=True, capture_output=True, shell=True)
+                print("         [+] Installing setuptools")
+                
             except:
                 try:
-                    print("         [+] Installing setuptools")
                     subprocess.run("pip3 install setuptools", text=True, capture_output=True, shell=True)
+                    print("         [+] Installing setuptools")
+                    
                 except:
                     print("[x] Please install pip in your computer")
                     break
 
             try:
-                print("         [+] Installing socket")
-                subprocess.run("pip install socket", text=True, capture_output=True, shell=True)
+                subprocess.run("pip install sockets", text=True, capture_output=True, shell=True)
+                print("         [+] Installing sockets")
+                
             except:
                 try:
-                    print("         [+] Installing socket")
-                    subprocess.run("pip3 install socket", text=True, capture_output=True, shell=True)
+                    subprocess.run("pip3 install sockets", text=True, capture_output=True, shell=True)
+                    print("         [+] Installing sockets")
+                    
                 except:
                     print("[x] Please install pip in your computer")
                     break
             try:
 
-                print("         [+] Installing colored")
                 subprocess.run("pip install colored", text=True, capture_output=True, shell=True)
+                print("         [+] Installing colored")
+                
             except:
                 try:
-                    print("         [+] Installing colored")
                     subprocess.run("pip3 install colored", text=True, capture_output=True, shell=True)
+                    print("         [+] Installing colored")
+                    
                 except:
                     print("[x] Please install pip in your computer")
                     break
 
             try:
 
-                print("         [+] Installing python-nmap")
                 subprocess.run("pip install python-nmap", text=True, capture_output=True, shell=True)
-                from colored import fg
-                blue = fg("blue")
-                print(" ")
-                print(blue + "[+] Installation completed successfully")
+                print("         [+] Installing python-nmap")
+                print("  ")
+                print("[+] Installation completed successfully")
                 print(" ")
             except:
                 try:
-                    print("         [+] Installing python-nmap")
                     subprocess.run("pip3 install python-nmap", text=True, capture_output=True, shell=True)
+                    print("         [+] Installing python-nmap")
                     print(" ")
-                    from colored import fg
-                    blue = fg("blue")
-                    print(blue + "[+] Installation completed successfully")
+            
+                    print("[+] Installation completed successfully")
                     print(" ")
                 except:
                     print("[x] Please install pip in your computer")
