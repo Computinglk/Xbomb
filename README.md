@@ -43,7 +43,11 @@ Installation steps
     
 # ABOUT
 
-+  A product from Computinglk written by Kavishka Gihan Ferenando
++  A product of Computinglk 
+
++ Author Kavishka Gihan Ferenando
+
+# DISCLAMER
 
 + Use this leagally
 
