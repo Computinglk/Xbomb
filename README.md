@@ -45,7 +45,7 @@ Run the 'help' command on the Xbomb shell to get the help menu
 
 + A product of Computinglk 
 
-+ Author Kavishka Gihan Ferenando
++ Author - Kavishka Gihan Ferenando
 
 # DISCLAMER
 
