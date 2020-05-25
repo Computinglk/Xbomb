@@ -193,19 +193,20 @@ def main():
         print(blue + "-" * 80)
         print("NETWORK SCANNER")
         print("-" * 80)
-
-        print(green + "[$] Main menu")
-        print("")
-        print("        1 ----------> Single host scan")
-        print("        2 ----------> Host state scan")
-        print("        3 ----------> Port state scan")
-        print("        4 ----------> Protocol scan")
-        print("        5 ----------> Open port scan")
-        print("        6 ----------> Soft scan")
-        print("        7 ----------> Aggressive scans")
-
+        
         while True:
+        
+            print(green + "[$] Main menu")
+            print("")
+            print("        1 ----------> Single host scan")
+            print("        2 ----------> Host state scan")
+            print("        3 ----------> Port state scan")
+            print("        4 ----------> Protocol scan")
+            print("        5 ----------> Open port scan")
+            print("        6 ----------> Soft scan")
+            print("        7 ----------> Aggressive scans")
 
+        
             print(" ")
             answer = str(input(green + "[#] Enter the type of scan you want > "))
             if answer == "use 1":
